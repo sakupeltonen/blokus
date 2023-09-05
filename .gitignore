@@ -1,0 +1,5 @@
+.idea/
+__pycache__/
+notes.txt
+testi.py
+RulebasedAgent.py
